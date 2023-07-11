@@ -1,1 +1,3 @@
 # HDFC-BANK-FINANCE-ANALYSIS
+This project provides a comprehensive financial analysis of HDFC Bank. The project starts with importing financial data from yahoo finance and presents basic price analysis. It details in the company's financial statements such as the balance sheet, income statements and cashflow statement. 
+This analysis provides insight into a company's profitability, liquidity & solvency, allowing investors to assess a company's financial health and potential risks. Additionally, the notebook uses predictive modelling techniques to predict future financial performance based on historical data.
